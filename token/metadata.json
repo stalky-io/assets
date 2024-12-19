@@ -1,0 +1,18 @@
+{
+  "name": "Stalky",
+  "symbol": "STKY",
+  "description": "Stalky is a unique meme project that monitors and selects successful memes within Solana ecosystem, aiming to create real value for communities through competition or collaboration.",
+  "image": "https://raw.githubusercontent.com/stalky-io/assets/refs/heads/main/token/stalky.png",
+  "attributes": [
+    {
+      "trait_type": "Token Type",
+      "value": "SPL Token"
+    }
+  ],
+  "properties": {
+    "website": "https://stalky.io",
+    "twitter": "https://twitter.com/stalky_io",
+    "telegram": "https://t.me/stalky",
+    "discord": "https://discord.gg/stalky"
+  }
+}
