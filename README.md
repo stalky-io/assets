@@ -1,1 +1,2 @@
-"# assets" 
+# Stalky 
+Stalky is a meme coin that tracks the ever-evolving phenomena within the Solana blockchain's digital currency ecosystem. This token literally "stalks" and curates healthy projects among various meme projects, aiming to either compete with or collaborate with them to research and pursue various methods of delivering tangible rewards to their passionate fandoms. By monitoring and analyzing the dynamics of successful meme projects, Stalky positions itself as a unique bridge between community engagement and real value creation in the Solana meme ecosystem.
